@@ -10,6 +10,7 @@ print('''Santa Tracker!
 Built by appledeej on Github.
 
 Press CTRL + C to exit.''')
+
 backlight.rgb(255, 0, 0)
 backlight.update
 time.sleep(1)
